@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ce36c9d1-1c04-48a0-8842-0add969057f5" name="test" url="http://testcandrianl.students.bzz.ch">
+        <fileTransfer rootFolder="/LU09A03" accessType="FTPS" host="students.bzz.ch" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
