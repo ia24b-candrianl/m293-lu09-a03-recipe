@@ -5,7 +5,7 @@
       <paths name="test">
         <serverdata>
           <mappings>
-            <mapping deploy="/LU09_A03_Recipe" local="$PROJECT_DIR$" web="https://testcandrianl.students.bzz.ch/LU09A03/tomatos.html" />
+            <mapping deploy="/LU09_A03_Recipe" local="$PROJECT_DIR$" web="https://testcandrianl.students.bzz.ch/LU09A03/LU09_A03_Recipe/tomatos.html" />
           </mappings>
         </serverdata>
       </paths>
